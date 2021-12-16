@@ -4,7 +4,7 @@
 ```bash
    git clone https://github.com/BDDA-PBL/BDDA--PBL.git bdda
    cd bdda
-   $jupyter-notebook
+   jupyter-notebook
 ```
 
 ## Libraries Required
