@@ -2,9 +2,9 @@
 
 ## How To Run
 ```bash
-  $ git clone https://github.com/BDDA-PBL/BDDA--PBL.git bdda
-  $ cd bdda
-  $ jupyter-notebook
+   git clone https://github.com/BDDA-PBL/BDDA--PBL.git bdda
+   cd bdda
+   $jupyter-notebook
 ```
 
 ## Libraries Required
