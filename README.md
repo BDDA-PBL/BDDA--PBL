@@ -12,6 +12,7 @@ We have used KNN Classification, Naive-Bayes Classification, and Decision-Tree C
 ```
 
 ## Libraries Required
+ - pandas
  - numpy
  - scipy
  - scikit-learn (sklearn)
